@@ -15,7 +15,7 @@ This project has been done for Udacity Nano degree program (https://www.udacity.
 This project needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4)
 
 ## File Description
-The source code is in Project_Airbnb_DataAnalysis.ipynb
+The source code is in Game_Tictactoe.ipynb
 
 ## Discussion
 After completing this project, I feel comfortable about the utilization of Object Oriented Programming. I have the better idea about the class, objects, methods and attributes.    
